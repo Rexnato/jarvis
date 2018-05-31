@@ -1,5 +1,7 @@
 package mx.cam.dev.rexnato;
 
+import java.util.HashMap;
+
 import javax.annotation.PostConstruct;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.ViewScoped;
@@ -78,6 +80,17 @@ public class BusquedaProfundidadController {
         }
          
         return conn;
+    }
+    
+    /***
+     *	
+     * 
+     */
+    public void llenadoCiudades(){
+//    	HashMap<String, Integer> conexionesOradea = new HashMap<>();
+//    	conexionesOradea.put(String, value)
+//    	CiudadMapa oradea = new CiudadMapa("Oradea", conexionesCarretera)
+    	
     }
 
 }
