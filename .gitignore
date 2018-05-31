@@ -10,7 +10,6 @@ buildNumber.properties
 .mvn/timing.properties
 
 # Archivos de Eclipse que no deben versionarse
-.settings/
 /.settings/.jsdtscope
 /.settings/org.eclipse.jpt.core.prefs
 /.settings/org.eclipse.m2e.core.prefs
@@ -21,6 +20,7 @@ buildNumber.properties
 /.settings/org.eclipse.wst.jsdt.ui.superType.name
 /.settings/org.eclipse.wst.validation.prefs
 /.settings/org.hibernate.eclipse.console.prefs
+.settings/
 /bin
 .classpath
 .project
